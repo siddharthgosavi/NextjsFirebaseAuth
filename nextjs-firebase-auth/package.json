@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@firebase/app": "^0.10.9",
+    "axios": "^1.7.5",
     "firebase": "^10.13.0",
     "next": "14.2.6",
     "react": "^18",
