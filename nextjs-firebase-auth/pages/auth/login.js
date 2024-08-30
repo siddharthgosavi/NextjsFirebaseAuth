@@ -85,7 +85,7 @@ const Login = () => {
             </form>
             <div className="flex flex-col mt-4 items-center justify-center text-sm">
               <h3>
-                <span className="cursor-default dark:text-gray-300">Don't have an account?</span>
+                <span className="cursor-default dark:text-gray-300">Dont have an account?</span>
                 <Link className="group text-blue-400 transition-all duration-100 ease-in-out" href={"/auth/register"}>
                   <span className="bg-left-bottom ml-1 bg-gradient-to-r from-blue-400 to-blue-400 bg-[length:0%_2px] bg-no-repeat group-hover:bg-[length:100%_2px] transition-all duration-500 ease-out">Register</span>
                 </Link>
